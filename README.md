@@ -1,16 +1,18 @@
-### Hi there 👋
+自我介绍
+姓名：尚通　　性别：男　　职业：本科大三在读　　学校：广东工业大学
 
-<!--
-**1078862512/1078862512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+技术情况：C语言、HTML、CSS、JavaScript
 
-Here are some ideas to get you started:
+爱好：手绘、摄影、看杂志、旅游、做模型、台球（除了学习都挺喜欢丨狗头）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+联系方式：tonggege_in_future@qq.com
+
+　　相信“厚积而薄发”的力量！
+
+　　不局限于周围的环境，我可是计算机学院的艺术生（自封）。
+
+　　努力去学习相关技术的同时，也喜欢着传统文化。
+
+　　全力奔跑着，也会时而放下脚步欣赏路过的风景。
+
+　　待“良辰，美景，赏心，悦事”四美齐聚之时，我便是这世界上最幸福的人。
